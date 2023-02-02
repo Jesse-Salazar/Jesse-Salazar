@@ -8,7 +8,7 @@
 - 🌱 Right now I’m currently tackling React and Typescript
 - 📠 Fun fax: In a past life, I made people laugh (and sometimes cry) on the radio as a dj
 - 👯 I’m looking to network with industry folk and professionals willing to mentor
-- 🛒 Please peruse the aisles of my Github but keep in mind some products have been on the shelf since the store opened
+- 🛒 Peruse the aisles of my Github but please keep in mind some products have been on the shelf since the store opened
 
 ### 🤝 Let's Connect!&nbsp;&nbsp;[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
