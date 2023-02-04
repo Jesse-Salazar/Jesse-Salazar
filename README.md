@@ -2,7 +2,7 @@
 
 ### I'm Jesse Salazar aka ***'@WebDevJesse'***
 
-- 🥾 I’m a recent bootcamp grad fully versed in everything full stack
+- 🥾 I’m a recent bootcamp grad **<ins>fully versed in everything full stack</ins>**
 - 😜 JK of course... I'm a bootcamp grad after all!
 - 🧠 I do know a little about a few things and am **constantly** learning new tech stuff to brag about
 - 🌱 Right now I’m currently tackling React and Typescript
